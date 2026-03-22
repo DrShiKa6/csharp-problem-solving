@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="01-simple-calculator/01-simple-calculator.csproj" />
+  <Project Path="02-sum-array/02-sum-array.csproj" />
+  <Project Path="03-find-average/03-find-average.csproj" />
+  <Project Path="04-find-max/04-find-max.csproj" />
+  <Project Path="05-find-min/05-find-min.csproj" />
+  <Project Path="06-fizzbuzz/06-fizzbuzz.csproj" />
+  <Project Path="07-reverse-string/07-reverse-string.csproj" />
+  <Project Path="08-valid-palindrome/08-valid-palindrome.csproj" />
+</Solution>
